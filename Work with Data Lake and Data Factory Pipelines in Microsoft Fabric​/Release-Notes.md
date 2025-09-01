@@ -59,3 +59,37 @@ NA
 ---
 </details>
 
+<details>
+  <summary>2025-08-20</summary>
+
+## Release Date: 2025-08-29
+
+### Summary of Changes
+
+Minor updates in ARM template and cost estimation sheet.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+N/A
+      
+### Testing Notes
+
+- **Testing Date**: 2025-08-29
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, cost estimation checks, and prerequisite verification.
+
+---
+</details>
+
+
+
